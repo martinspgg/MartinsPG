@@ -15,5 +15,10 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 </table>
 
 <h1>🌐 Fale comigo </h1>
-<a href=""> <button> LINKEDIN </button> </a>
-<a href=""> <button> INSTAGRAM </button> </a>
+<table>
+  <ul>
+    <a href=""> <li> INSTAGRAM </li> </a>
+    <a href=""> <li> LINKEDIN </li> </a>
+    <a href=""> <li> WHATSAPP </li> </a>
+  </ul>
+</table>
