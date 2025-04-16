@@ -17,8 +17,8 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 <h1>🌐 Fale comigo </h1>
 <table>
   <ul>
-    <a href=""> <li> INSTAGRAM </li> </a>
-    <a href=""> <li> LINKEDIN </li> </a>
+    <a href="https://www.instagram.com/_.martins2/"> <li> INSTAGRAM </li> </a>
+    <a href="www.linkedin.com/in/pedro-martins-3a35a631a"> <li> LINKEDIN </li> </a>
     <a href=""> <li> WHATSAPP </li> </a>
   </ul>
 </table>
