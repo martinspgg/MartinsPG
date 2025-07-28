@@ -8,7 +8,6 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 <table>
   <ul>
     <li>Git 🐙</li>
-    <li>Python 🐍</li>
     <li>Portugol 🧠</li>
     <li>JavaScript ☕</li>
     <li>Html 5 📄</li>
@@ -46,13 +45,6 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
   <img 
     alt="Git" 
     title="Git" 
