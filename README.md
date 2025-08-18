@@ -8,8 +8,8 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 <table>
   <ul>
     <li>Git 🐙</li>
-    <li>Portugol 🧠</li>
     <li>JavaScript ☕</li>
+    <li>React🎉</li>
     <li>Html 5 📄</li>
     <li>Css 3 🎨</li
   </ul>
@@ -18,7 +18,7 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
 
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](=)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-martins-3a35a631a)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.martins2?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ---
@@ -73,6 +73,12 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
+  <img 
+    alt="React"
+    title="React"
+    width="30px"
+    style="pading-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
 </p>
 
 ### 📊 Estatísticas
