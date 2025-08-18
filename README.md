@@ -11,14 +11,14 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
     <li>JavaScript ☕</li>
     <li>React🎉</li>
     <li>Html 5 📄</li>
-    <li>Css 3 🎨</li
+    <li>Css 3 🎨</li>
   </ul>
 </table>
 
 
 
 ### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-martins-3a35a631a?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-3a35a631a?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.martins2?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
 ---
