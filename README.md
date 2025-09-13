@@ -12,6 +12,7 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
     <li>React🎉</li>
     <li>Html 5 📄</li>
     <li>Css 3 🎨</li>
+    <li>Csharp 👾</li>
   </ul>
 </table>
 
