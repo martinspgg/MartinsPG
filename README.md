@@ -9,10 +9,10 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
   <ul>
     <li>Git 🐙</li>
     <li>JavaScript ☕</li>
-    <li>React🎉</li>
+    <li>React 🎉</li>
+    <li>Csharp 👾</li>
     <li>Html 5 📄</li>
     <li>Css 3 🎨</li>
-    <li>Csharp 👾</li>
   </ul>
 </table>
 
@@ -79,22 +79,4 @@ Estou sempre tentando aprender algo novo e me aventurando em projetos através d
     width="30px"
     style="pading-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-</p>
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MartinsPG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsPG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 </p>
