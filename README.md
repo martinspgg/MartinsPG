@@ -18,11 +18,7 @@
 ---
 
 ### 📊 Estatísticas de Contribuição
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake.svg">
-  <img alt="Github snake game" src="https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Como me encontrar
