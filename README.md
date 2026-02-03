@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Martins! 👋
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=radical)-->
+[![Estatísticas do MartinsPG](https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=tokyonight)](https://github.com/martinspgg)
 ---
 
 ### 💻 Sobre Mim
