@@ -1,9 +1,9 @@
 # Olá, eu sou o Pedro Martins! 👋
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MartinsPG &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MartinsPG&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsPG &layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsPG&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
