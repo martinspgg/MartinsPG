@@ -1,82 +1,41 @@
-<h1>💻 Pedro Martins </h1>
-<h1>Desenvolvedor FullStack</h1>
+# Olá, eu sou o [Seu Nome]! 👋
 
-<p>Olá, meu nome é Pedro Martins e adoro tecnologia e programação, mesmo que ainda esteja no começo da jornada 🚀 
-Estou sempre tentando aprender algo novo e me aventurando em projetos através de cursos na DIO e também no IFRS.📚</p>
-
-<p>Tenho experiencia prática e em busca de melhorar minhas habilidades em:</p>
-<table>
-  <ul>
-    <li>Git 🐙</li>
-    <li>JavaScript ☕</li>
-    <li>React 🎉</li>
-    <li>Csharp 👾</li>
-    <li>Html 5 📄</li>
-    <li>Css 3 🎨</li>
-  </ul>
-</table>
-
-
-
-### 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-martins-3a35a631a?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ---
 
-<p align="left">
-    <a href="https://github.com/MartinsPG?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MartinsPG?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MartinsPG?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MartinsPG?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### 💻 Sobre Mim
+- 🔭 Atualmente trabalhando em **[Seu Projeto Atual]**
+- 🌱 Estudando profundamente **[Sua Tecnologia Atual]**
+- ⚡ Curiosidade: [Um fato engraçado ou hobby]
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 
-<p align="left">
-  <img 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  />
-  <img 
-    alt="Html" 
-    title="Html 5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
-  <img 
-    alt="Css" 
-    title="Css 3" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-  />
-  <img 
-    alt="Js" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  <img 
-    alt="React"
-    title="React"
-    width="30px"
-    style="pading-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
-</p>
+---
+
+### 📊 Estatísticas de Contribuição
+![Snake animation](https://github.com/[SEU-USUARIO]/[SEU-USUARIO]/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Como me encontrar
+<div align="left">
+  <a href="mailto:[seu-email@gmail.com]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/[seu-linkedin]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
