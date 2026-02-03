@@ -1,6 +1,7 @@
 # Olá, eu sou o Pedro Martins! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=radical)---
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=radical)-->
+---
 
 ### 💻 Sobre Mim
 - 🔭 Atualmente trabalhando na **Viniplast Lonas Indústria & Comércio**
