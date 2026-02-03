@@ -18,7 +18,7 @@
 ---
 
 ### 📊 Estatísticas de Contribuição
-![Snake animation](https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MartinsPG/MartinsPG/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 📫 Como me encontrar
