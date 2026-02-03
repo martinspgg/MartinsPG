@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Martins! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?martinspgg=anuraghazra&show_icons=true&theme=dark)
 ---
 
 ### 💻 Sobre Mim
