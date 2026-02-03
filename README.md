@@ -1,6 +1,11 @@
 # Olá, eu sou o Pedro Martins! 👋
 
-[![Estatísticas do MartinsPG](https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=tokyonight)](https://github.com/martinspgg)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=martinspgg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinspgg&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
 ---
 
 ### 💻 Sobre Mim
